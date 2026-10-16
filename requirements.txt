@@ -1,0 +1,3 @@
+# Aplikasi hanya memakai standard library Python.
+# Tool keamanan:
+bandit==1.7.10
